@@ -4,13 +4,13 @@ Welcome to my profile. I'm **Vikrant Negi** working currently as a **React Nativ
 
 ### Tech Stack
 
-<code><img height="30" src="https://raw.githubusercontent.com/vikrantnegi/vikrantnegi/master/assets/javascript-original.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/vikrantnegi/vikrantnegi/master/assets/react-original.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/vikrantnegi/vikrantnegi/master/assets/redux-original.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/vikrantnegi/vikrantnegi/master/assets/html5-original.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/vikrantnegi/vikrantnegi/master/assets/css3-original.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/vikrantnegi/vikrantnegi/master/assets/sass-original.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/vikrantnegi/vikrantnegi/master/assets/bootstrap-plain.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/vikrantnegi/vikrantnegi/master/assets/javascript-original.svg" alt="Javascript"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/vikrantnegi/vikrantnegi/master/assets/react-original.svg" alt="React"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/vikrantnegi/vikrantnegi/master/assets/redux-original.svg" alt="Redux"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/vikrantnegi/vikrantnegi/master/assets/html5-original.svg" alt="HTML5"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/vikrantnegi/vikrantnegi/master/assets/css3-original.svg" alt="CSS3"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/vikrantnegi/vikrantnegi/master/assets/sass-original.svg" alt="Sass"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/vikrantnegi/vikrantnegi/master/assets/bootstrap-plain.svg" alt="Bootstrap"></code>
 
 ### Social
 
