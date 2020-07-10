@@ -1,4 +1,10 @@
-### Hi there 👋
+### What's up! 👋
 
-- 💬 Ask me about anything, I'm happy to help!
-- 📫 How to reach me: vikrantnegi007@gmail.com
+Welcome to my profile. I'm **Vikrant Negi** working currently as a **React Native Developer**.
+
+### Social
+
+- Blog - https://dev.to/vikrantnegi
+- Stackoverflow - https://stackoverflow.com/users/2128650/vikrantnegi007
+- Twitter - https://twitter.com/vikrant_negi
+- Mail - vikrantnegi007@gmail.com
