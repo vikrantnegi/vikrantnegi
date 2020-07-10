@@ -1,6 +1,7 @@
 ### What's up! 👋
 
-Welcome to my profile. I'm **Vikrant Negi** working currently as a **React Native Developer**.
+Welcome to my profile.
+I'm **Vikrant Negi** working currently as a **React Native Developer**.
 
 ### Tech Stack
 
