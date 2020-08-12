@@ -19,3 +19,5 @@ I'm **Vikrant Negi** working currently as a **React Native Developer**.
 - Stackoverflow - https://stackoverflow.com/users/2128650/vikrantnegi
 - Twitter - https://twitter.com/vikrant_negi
 - Mail - vikrantnegi007@gmail.com
+
+[![Vikrant's github stats](https://github-readme-stats.vercel.app/api?username=vikrantnegi&show_icons=true&theme=radical)
